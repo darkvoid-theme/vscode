@@ -229,6 +229,17 @@
       "settings": { "foreground": "#a1a1a1" }
     },
     {
+      "name": "Haskell Operators",
+      "scope": [
+        "keyword.operator.haskell",
+        "keyword.operator",
+        "punctuation.separator"
+      ],
+      "settings": {
+        "foreground": "#1bfd9c"
+      }
+    },
+    {
       "name": "Operator, Misc",
       "scope": [
         "keyword.operator.arithmetic",
