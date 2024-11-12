@@ -33,10 +33,17 @@
     "statusBar.debuggingBackground": "#4b8902",
     "statusBarItem.hoverBackground": "#1bfd9c",
 
-    "titleBar.activeBackground": "#1c1c1c",
-    "titleBar.inactiveBackground": "#303030",
+    "titleBar.Background": "#1c1c1c",
     "titleBar.foreground": "#c0c0c0",
-    "titleBar.border": "#404040",
+    "titleBar.activeBackground": "#1c1c1c",
+    "titleBar.inactiveBackground": "#1c1c1c",
+    "menu.background": "#1c1c1c",
+    "menu.foreground": "#bdfe58",
+    "menubar.selectionBackground": "#1c1c1c",
+    "menubar.selectionForeground": "#bdfe58",
+    "menu.selectionBackground": "#1c1c1c",
+    "menu.selectionForeground": "#bdfe58",
+    "menu.separatorBackground": "#1c1c1c",
 
     "input.background": "#202020",
     "input.foreground": "#c0c0c0",
@@ -66,6 +73,7 @@
 
     "editorWidget.background": "#1c1c1c",
     "editorWidget.foreground": "#c0c0c0",
+    "editorWidget.selectionForeground": "#bdfe58",
     "editorWidget.border": "#1c1c1c",
     "editorWidget.resizeBorder": "#bdfe58",
 
@@ -91,8 +99,8 @@
 
     "progressBar.background": "#1bfd9c",
 
-    "breadcrumb.background": "#303030",
-    "breadcrumb.foreground": "#c0c0c0",
+    "breadcrumb.background": "#1c1c1c",
+    "breadcrumb.foreground": "#a1a1a1",
 
     "gitDecoration.addedResourceForeground": "#baffc9",
     "gitDecoration.modifiedResourceForeground": "#ffffba",
@@ -131,8 +139,17 @@
     "terminal.selectionBackground": "#303030",
     "terminal.selectionForeground": "#c0c0c0",
 
+    "editorGroupHeader.tabsBackground": "#1c1c1c",
+    "editorGroup.dropBackground": "#1c1c1c",
+    "tab.activeBackground": "#1c1c1c",
+    "tab.inactiveBackground": "#1c1c1c",
+    "tab.activeForeground": "#f1f1f1",
+    "tab.inactiveForeground": "#b1b1b1",
+    "tab.hoverForeground": "#bdfe58",
+
     "sideBar.border": "#00000000",
     "terminal.border": "#00000000",
+    "editorGroupHeader.tabsBorder": "#00000000",
     "editorGroup.border": "#00000000",
     "activityBar.border": "#00000000",
     "titleBar.border": "#00000000",
