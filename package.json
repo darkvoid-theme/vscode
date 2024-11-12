@@ -1,0 +1,31 @@
+{
+  "name": "darkvoid",
+  "displayName": "darkvoid",
+  "description": "A minimal and monochromatic colorscheme for dark dwellers with glowing and unique aesthetics",
+  "version": "1.0.0",
+  "publisher": "aliqyan-21",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "repository": "https://github.com/darkvoid-theme/vscode",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "monochromatic",
+    "glow",
+    "aesthetic",
+    "minimal"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "darkvoid",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darkvoid-color-theme.json"
+      }
+    ]
+  }
+}
