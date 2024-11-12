@@ -105,6 +105,32 @@
     "statusBarItem.hoverBackground": "#1c1c1c",
     "statusBarItem.hoverForeground": "#bdfe58",
 
+    "terminal.background": "#1c1c1c",
+    "terminal.foreground": "#c0c0c0",
+    "terminalCursor.foreground": "#bdfe58",
+    "terminalCursor.background": "#303030",
+
+    "terminal.ansiBlack": "#1c1c1c",
+    "terminal.ansiRed": "#ff3131",
+    "terminal.ansiGreen": "#b2d8d8",
+    "terminal.ansiYellow": "#d1d1d1",
+    "terminal.ansiBlue": "#66b2b2",
+    "terminal.ansiMagenta": "#b16286",
+    "terminal.ansiCyan": "#1bfd9c",
+    "terminal.ansiWhite": "#f1f1f1",
+
+    "terminal.ansiBrightBlack": "#404040",
+    "terminal.ansiBrightRed": "#ffb3ba",
+    "terminal.ansiBrightGreen": "#bdfe58",
+    "terminal.ansiBrightYellow": "#ffffba",
+    "terminal.ansiBrightBlue": "#b2d8d8",
+    "terminal.ansiBrightMagenta": "#d3869b",
+    "terminal.ansiBrightCyan": "#1bfd9c",
+    "terminal.ansiBrightWhite": "#f1f1f1",
+
+    "terminal.selectionBackground": "#303030",
+    "terminal.selectionForeground": "#c0c0c0",
+
     "sideBar.border": "#00000000",
     "terminal.border": "#00000000",
     "editorGroup.border": "#00000000",
