@@ -2,3 +2,4 @@ CHANGELOG.md
 darkvoid-1.0.0.vsix
 package-lock.json
 vsc-extension-quickstart.md
+.vscode/launch.json
