@@ -33,12 +33,11 @@
     "statusBar.debuggingBackground": "#4b8902",
     "statusBarItem.hoverBackground": "#1bfd9c",
 
-    "titleBar.Background": "#1c1c1c",
-    "titleBar.foreground": "#c0c0c0",
     "titleBar.activeBackground": "#1c1c1c",
     "titleBar.inactiveBackground": "#1c1c1c",
+
     "menu.background": "#1c1c1c",
-    "menu.foreground": "#bdfe58",
+    "menu.foreground": "#c0c0c0",
     "menubar.selectionBackground": "#1c1c1c",
     "menubar.selectionForeground": "#bdfe58",
     "menu.selectionBackground": "#1c1c1c",
@@ -54,11 +53,17 @@
     "dropdown.foreground": "#c0c0c0",
     "dropdown.border": "#1c1c1c",
 
-    "notification.background": "#1c1c1c",
-    "notification.foreground": "#c0c0c0",
-    "notification.errorBackground": "#ffb3ba",
-    "notification.warningBackground": "#ffffba",
-    "notification.infoBackground": "#b2d8d8",
+    "notifications.background": "#1c1c1c",
+    "notifications.foreground": "#c0c0c0",
+    "notificationsErrorIcon.foreground": "#ffb3ba",
+    "notificationsWarningIcon.foreground": "#ffffba",
+    "notificationsInfoIcon.foreground": "#7fa1c3",
+    "notificationLink.foreground": "#7fa1c3",
+
+    "banner.background": "#1c1c1c",
+    "banner.foreground": "#c0c0c0",
+    "banner.iconForeground": "#1bfd9c",
+
     "scrollbarSlider.background": "#404040",
     "scrollbarSlider.hoverBackground": "#585858",
     "scrollbarSlider.activeBackground": "#c0c0c0",
@@ -86,8 +91,26 @@
     "list.activeSelectionBackground": "#1c1c1c",
     "list.activeSelectionForeground": "#bdfe58",
 
-    "editorError.foreground": "#dea6a0",
-    "editorWarning.foreground": "#d6efd8",
+    "editorError.foreground": "#00000000",
+    "editorWarning.foreground": "#00000000",
+    "editorInfo.foreground": "#00000000",
+    "editorHint.foreground": "#00000000",
+    "editorError.border": "#e9967add",
+    "editorWarning.border": "#e8f48caa",
+    "editorInfo.border": "#7fa1c399",
+    "editorHint.border": "#bedc7499",
+
+    "editorOverviewRuler.background": "#1c1c1c",
+
+    "problemsErrorIcon.foreground": "#e9967a",
+    "problemsWarningIcon.foreground": "#e8f48c",
+    "problemsInfoIcon.foreground": "#7fa1c3",
+
+    "list.errorForeground": "#e9967a",
+    "list.warningForeground": "#e8f48c",
+
+    "notificationCenterHeader.foreground": "#c0c0c0",
+    "notificationCenterHeader.background": "#1c1c1c",
 
     "debugToolBar.background": "#1c1c1c",
     "debugToolBar.border": "#404040",
@@ -176,7 +199,9 @@
     "activityBar.border": "#00000000",
     "titleBar.border": "#00000000",
     "panel.border": "#00000000",
-    "statusBar.border": "#00000000"
+    "statusBar.border": "#00000000",
+    "editorOverviewRuler.border": "#00000000",
+    "notificationCenter.border": "#00000000"
   },
 
   "tokenColors": [
