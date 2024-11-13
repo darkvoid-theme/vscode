@@ -1,6 +1,5 @@
 CHANGELOG.md
-darkvoid-1.0.1.vsix
-darkvoid-1.2.0.vsix
+*.vsix
 package-lock.json
 vsc-extension-quickstart.md
 .vscode/launch.json
