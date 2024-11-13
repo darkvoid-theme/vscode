@@ -26,23 +26,6 @@ You can easily install **darkvoid-theme** from the Visual Studio Code Marketplac
 
 ---
 
-## Usage
-
-After installing, activate **darkvoid**:
-
-1. **Switching to darkvoid Theme**:
-
-   - Open the command palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on macOS).
-   - Type `Preferences: Color Theme` and select **darkvoid**.
-
-2. **Recommended Settings for the Best Experience**:
-   - Disable bracket pair colorization for a minimalist look:
-     ```json
-     "editor.bracketPairColorization.enabled": false
-     ```
-
----
-
 ## Customizations
 
 Feel free to customize the theme according to your preference by adjusting the settings for:
