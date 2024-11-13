@@ -2,6 +2,7 @@
   "name": "darkvoid",
   "displayName": "darkvoid",
   "description": "A minimal and monochromatic colorscheme for dark dwellers with glowing and unique aesthetics",
+  "icon": "assets/logo.png",
   "version": "1.2.0",
   "publisher": "aliqyan-21",
   "engines": {
