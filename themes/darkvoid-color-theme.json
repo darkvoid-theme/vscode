@@ -192,6 +192,14 @@
     "settings.sashBorder": "#404040",
     "settings.settingsHeaderHoverForeground": "#bdfe58",
 
+    "editorBracketHighlight.foreground1": "#e6e6e6",
+    "editorBracketHighlight.foreground2": "#d0d0d0",
+    "editorBracketHighlight.foreground3": "#b3b3b3",
+    "editorBracketHighlight.foreground4": "#969696",
+    "editorBracketHighlight.foreground5": "#7a7a7a",
+    "editorBracketHighlight.foreground6": "#5e5e5e",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ff003f",
+
     "sideBar.border": "#00000000",
     "terminal.border": "#00000000",
     "editorGroupHeader.tabsBorder": "#00000000",
