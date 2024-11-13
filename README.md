@@ -24,6 +24,8 @@ You can easily install **darkvoid-theme** from the Visual Studio Code Marketplac
 - Search for `darkvoid` and click **Install**.
 - Select **darkvoid** from your theme options (`Ctrl+K Ctrl+T` or search for "Color Theme" in the command palette).
 
+> Note: Darkvoid Supports Bracket Pair Colorization, Enable it in settings, for better and visually appealing bracket highlights.
+
 ---
 
 ## Customizations
