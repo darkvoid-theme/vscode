@@ -20,6 +20,8 @@
 
     "activityBar.background": "#1c1c1c",
     "activityBar.foreground": "#a1a1a1",
+    "activityBar.foreground": "#bdfe58",
+    "activityBar.inactiveForeground": "#414141",
     "activityBarBadge.background": "#1c1c1c",
     "activityBarBadge.foreground": "#ffffff",
 
@@ -262,24 +264,19 @@
       "settings": { "foreground": "#a1a1a1" }
     },
     {
-      "name": "Haskell Operators",
-      "scope": [
-        "keyword.operator.haskell",
-        "keyword.operator",
-        "punctuation.separator"
-      ],
-      "settings": {
-        "foreground": "#1bfd9c"
-      }
-    },
-    {
-      "name": "Operator, Misc",
+      "name": "Operator",
       "scope": [
         "keyword.operator.arithmetic",
         "keyword.operator.logical",
         "keyword.operator.assignment",
         "keyword.operator.bitwise",
-        "keyword.operator.comparison"
+        "keyword.operator.comparison",
+        "keyword.operator.infix",
+        "keyword.operator.arrow",
+        "keyword.operator.double-colon",
+        "keyword.operator.colon",
+        "keyword.operator.pipe",
+        "punctuation.separator.period"
       ],
       "settings": {
         "foreground": "#1bfd9c"
@@ -331,17 +328,6 @@
       "scope": ["constant.numeric", "support.constant"],
       "settings": {
         "foreground": "#b2d8d8"
-      }
-    },
-    {
-      "name": "Brackets",
-      "scope": [
-        "punctuation.section.block",
-        "punctuation.definition.array",
-        "punctuation.definition.parameters"
-      ],
-      "settings": {
-        "foreground": "#e6e6e6"
       }
     },
     {
