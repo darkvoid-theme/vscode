@@ -26,6 +26,11 @@
         "label": "darkvoid",
         "uiTheme": "vs-dark",
         "path": "./themes/darkvoid-color-theme.json"
+      },
+      {
+        "label": "darkvoid ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darkvoid-ocean.json"
       }
     ]
   }
